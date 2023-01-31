@@ -1,0 +1,18 @@
+1 Income 1000.00
+0 Almond 250g 35.43 FOOD
+0 Milk 3.50 FOOD
+0 Red Fuji Apple 5.99 FOOD
+0 Eggs 3.99 FOOD
+0 FIJI Natural Artesian Water 25.98 FOOD
+0 Hershey's milk chocolate bars 8.54 FOOD
+0 Great Value Broccoli Florets 1.00 FOOD
+0 Keystone Ground Bee 6.28 FOOD
+0 Gildan LT 8.61 CLOTHES
+0 Men's Dual Defense Crew Socks 12 Pairs 13.00 CLOTHES
+0 Wrangler Men's Stretch Cargo Pant 19.97 CLOTHES
+0 LEGO DUPLO Town Farm Animals 10.10 ENTERTAINMENT
+0 Cinema 8.73 ENTERTAINMENT
+0 Skate rental 30.00 ENTERTAINMENT
+0 Sensodyne Pronamel Toothpaste 19.74 OTHER
+0 Chick-fil-A $10 Gift Card 10.00 OTHER
+0 Debt 3.50 OTHER
